@@ -1,0 +1,48 @@
+ [
+   {
+     "question": "The Japanese attacked Pearl Harbor on December 7, 1940",
+     "answer": false
+   },
+   {
+     "question": "If Sally ate 7 cakes and John ate 2, together they ate 9 cakes",
+     "answer": true
+   },
+   {
+     "question": "Some animals can get sunburn",
+     "answer": true
+   },
+   {
+     "question": "Earth is closest to the Sun in January",
+     "answer": true
+   },
+   {
+     "question": "Humans share 90% of their DNA with bananas",
+     "answer": false
+   },
+   {
+     "question": "Astronauts shrink while they're in space",
+     "answer": false
+   },
+   {
+     "question": "If you could fold a piece of paper 42 times, it would reach the moon",
+     "answer": true
+   },
+   {
+     "question": "If you cry in space the tears just stick to your face",
+     "answer": true
+   },
+   {
+     "question": "Your fingernails and hair keep growing after you die",
+     "answer": false
+   },
+   {
+     "question": "Twinkies have an infinite shelf life",
+     "answer": false
+   },
+   {
+     "question": "Drinking alcohol kills brain cells",
+     "answer": false
+   }
+
+ ]
+
